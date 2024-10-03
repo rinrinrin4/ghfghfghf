@@ -1,0 +1,6 @@
+ chcp 65001
+ help dir
+XCOPY /? > XCOPY.TXT
+dir /? > dir.txt
+copy /? > copy.txt
+doskey /history
